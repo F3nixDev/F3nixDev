@@ -1,5 +1,5 @@
 ### Hi There 🌟
 <br>
-Welcome there! 
+Welcome there! <br>
 
 I'm Filip, Front-End developer from 🇨🇿 Prague.
